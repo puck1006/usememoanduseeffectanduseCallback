@@ -1,2 +1,0 @@
-# usememoanduseeffectanduseCallback
-Created with CodeSandbox
